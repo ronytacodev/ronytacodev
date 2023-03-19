@@ -21,7 +21,7 @@
 
 - ⚡ Sofware is a great combination between artistry and engineering. **Bill Gates**
 
-- 💬 Ask me about **PHP, Laravel, Javascript, Vue**
+- 💬 Ask me about **Javascript, Vue, React, PHP, Laravel**
 
 - 🌱 I’m currently learning **Quasar, React Native**
 

@@ -21,7 +21,7 @@
 
 - ⚡ Sofware is a great combination between artistry and engineering. **Bill Gates**
 
-- 💬 Ask me about **Javascript, PHP**
+<!-- - 💬 Ask me about **Javascript, PHP** -->
 
 - 🌱 I’m currently learning **React Native**
 

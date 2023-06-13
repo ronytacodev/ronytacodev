@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📌 A passionate Frontend Developer from Lima, Perú
+- 📌 A passionate Data Analyst / Web Developer from Lima, Perú
 
 - 📁 You can also check out my portfolio at [https://ronytacodev.github.io/](https://ronytacodev.github.io/Portafolio_Rony/)
 
